@@ -1,2 +1,3 @@
 # hello-world
-my first repository for testing new ideas
+
+Hi, I am just in the middle of finishing the tutorial of creating a branch here on Github.
